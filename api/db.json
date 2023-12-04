@@ -1,0 +1,20 @@
+{
+    "mahasiswa": [
+      {
+        "id": 1,
+        "nama": "Syauqi",
+        "nim": "21/474593/SV/18988",
+        "kelas": "A",
+        "icon": "headphone",
+        "color": "#FF0000"
+      },
+      {
+        "nama": "Syauqi Nurbaeti",
+        "nim": "21/474593/SV/18988",
+        "kelas": "A",
+        "icon": "headphone",
+        "color": "#FF0000",
+        "id": 2
+      }
+    ]
+  }
